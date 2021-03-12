@@ -2,3 +2,4 @@ git is so hard
 (local) no! git is easy
 (remote) we can do it
 (hw_1) git is very useful
+(hw_1) also git is very fun
