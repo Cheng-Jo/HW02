@@ -1,2 +1,3 @@
 git is so hard
 (local) no! git is easy
+(remote) we can do it
