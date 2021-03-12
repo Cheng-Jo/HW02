@@ -4,3 +4,4 @@ git is so hard
 (hw_2)we have to use github proficiently
 (hw_2)we must study hard
 (hw_1) git is very useful
+(hw_1) also git is very fun
