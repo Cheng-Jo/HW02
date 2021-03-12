@@ -1,3 +1,4 @@
 git is so hard
 (local) no! git is easy
 (remote) we can do it
+(hw_2)we have to use github proficiently
